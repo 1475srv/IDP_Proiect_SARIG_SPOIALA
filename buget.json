@@ -1,0 +1,20 @@
+{
+    "tranzactii": [
+        {
+            "Categorie": "Cheltuiala",
+            "Suma": "5000.00 RON",
+            "Descriere": "salariu"
+        },
+        {
+            "Categorie": "Venit",
+            "Suma": "6000.00 RON",
+            "Descriere": "suma"
+        }
+    ],
+    "venituri": [
+        6000.0
+    ],
+    "cheltuieli": [
+        5000.0
+    ]
+}
